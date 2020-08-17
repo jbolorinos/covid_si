@@ -37,8 +37,9 @@ app.css.config.serve_locally = True
 app.scripts.config.serve_locally = True
 
 # Read in data
-root_dir = "https://afs.stanford.edu/?path=/afs/ir/group/covid_power/WWW/data"
 local_dir = "/Users/josebolorinos/Google Drive File Stream/My Drive/Research Stuff/Covid and the Grid/si_app/data"
+server_dir = "~/covid_si/data"
+
 
 df_dict = {}
 df_names = ['figure1','figure12_sip','table1','figure2','table2','figure3','table3']
@@ -66,20 +67,19 @@ layoutChildren = [
                 id = 'geography-dropdown',
                 options = [{'label': value, 'value': value} for value in geographies],
                 value = 'Australia'
-            ),
-            html.Div([
-                html.A(
-                    'Download all data',
-                    id = 'download-zip',
-                    download = 'covid-data.zip',
-                    href = "/download_csv/",
-                    target = "_blank",
-                    n_clicks = 0, className='button button-primary',
-                    style = {'height': '45px', 'width': '282px','font-size': '15px'}
-                )],
-                style = {'padding': '1px','backgroundColor':'white','textAlign':'right'}
-            ),
-            html.Div(id = 'test')
+            )
+            # html.Div([
+            #     html.A(
+            #         'Download all data',
+            #         id = 'download-zip',
+            #         download = 'covid-data.zip',
+            #         href = "/download_csv/",
+            #         target = "_blank",
+            #         n_clicks = 0, className='button button-primary',
+            #         style = {'height': '45px', 'width': '282px','font-size': '15px'}
+            #     )],
+            #     style = {'padding': '1px','backgroundColor':'white','textAlign':'right'}
+            # )
         ],
     style = {'width': '20%', 'textAlign':'center', 'padding-left':'15%'}
     ),
@@ -540,31 +540,30 @@ def filtered_si_results(geography):
     return figure12_ci, figure1_ts, table1, figure2_ci, figure2_ts, table2, figure3, table3
 
 
-@app.callback(
-    Output('download-zip', 'href'), 
-    [Input('geography-dropdown','value')]
-)
+# @app.callback(
+#     Output('download-zip', 'href'), 
+#     [Input('geography-dropdown','value')]
+# )
 
-def load_link(value):
-    return '/download_csv'
+# def load_link(value):
+#     return '/download_csv'
 
-@app.server.route('/download_csv')
+# @app.server.route('/download_csv')
 
-def download_csv():
+# def download_csv():
 
-    zip_object = ZipFile('covid-data.zip', 'w')
-    for file_name in df_dict:
-        data_sub = df_dict[file_name]
-        data_sub.to_csv('{}.csv'.format(file_name))
-        zip_object.write('{}.csv'.format(file_name))
+#     zip_object = ZipFile('covid-data.zip', 'w')
+#     for file_name in df_dict:
+#         data_sub = df_dict[file_name]
+#         zip_object.write('{}.csv'.format(file_name))
 
-    zip_object.close()
+#     zip_object.close()
 
-    return send_file(
-        'covid-data.zip',
-        attachment_filename = 'covid-data.zip',
-        as_attachment = True
-    )
+#     return send_file(
+#         'covid-data.zip',
+#         attachment_filename = 'covid-data.zip',
+#         as_attachment = True
+#     )
 
 
 if __name__ == '__main__':
