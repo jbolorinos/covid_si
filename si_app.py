@@ -42,13 +42,8 @@ server_dir = "~/covid_si/data"
 
 
 df_dict = {}
-<<<<<<< HEAD
-df_names = ['figure1','figure12_sip','table1','figure2','table2','figure3','table3']
-df_dict = {df_name: pd.read_csv(os.path.join(server_dir, df_name + '.csv')) for df_name in df_names}
-=======
 df_names = ['figure1','figure12_sip','table1','figure2','table2','figure3','table3','table4','table5']
-df_dict = {df_name: pd.read_csv(os.path.join(local_dir, df_name + '.csv')) for df_name in df_names}
->>>>>>> ea39343b06467be9a5e85f34db0ab26adb689727
+df_dict = {df_name: pd.read_csv(os.path.join(server_dir, df_name + '.csv')) for df_name in df_names}
 
 # Format date variables
 df_dict['figure1'].loc[:,'date'] = pd.to_datetime(df_dict['figure1']['date'])
