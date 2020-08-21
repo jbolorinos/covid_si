@@ -1,0 +1,451 @@
+"geography","mobility_type_desc","coefficient","standard_error","p_value"
+"Australia","Workplace","-0.01","0.06","0.91"
+"Australia","Transit","-0.08","0.09","0.34"
+"Australia","Residential","-0.19","0.16","0.25"
+"Australia","Retail Recreation","0.24","0.11","0.03"
+"Australia","Grocery Pharmacy","-0.18","0.03","0.00"
+"Australia","Parks","-0.10","0.04","0.01"
+"Australia","Constant","0.39",NA,NA
+"Australia","N",NA,"107.00",NA
+"Australia","R2",NA,"0.25",NA
+"Austria","Workplace","-0.05","0.06","0.39"
+"Austria","Transit","0.41","0.07","0.00"
+"Austria","Residential","-0.05","0.16","0.75"
+"Austria","Retail Recreation","-0.11","0.05","0.02"
+"Austria","Grocery Pharmacy","-0.05","0.04","0.26"
+"Austria","Parks","-0.06","0.02","0.00"
+"Austria","Constant","2.47",NA,NA
+"Austria","N",NA,"107.00",NA
+"Austria","R2",NA,"0.72",NA
+"Belgium","Workplace","-0.04","0.06","0.51"
+"Belgium","Transit","0.07","0.07","0.34"
+"Belgium","Residential","-0.30","0.12","0.01"
+"Belgium","Retail Recreation","-0.01","0.04","0.88"
+"Belgium","Grocery Pharmacy","-0.00","0.03","0.88"
+"Belgium","Parks","0.03","0.01","0.03"
+"Belgium","Constant","-0.14",NA,NA
+"Belgium","N",NA,"107.00",NA
+"Belgium","R2",NA,"0.70",NA
+"Brazil","Workplace","-0.04","0.07","0.57"
+"Brazil","Transit","0.25","0.13","0.06"
+"Brazil","Residential","-0.40","0.21","0.05"
+"Brazil","Retail Recreation","-0.15","0.08","0.07"
+"Brazil","Grocery Pharmacy","-0.08","0.04","0.06"
+"Brazil","Parks","0.03","0.04","0.48"
+"Brazil","Constant","0.17",NA,NA
+"Brazil","N",NA,"107.00",NA
+"Brazil","R2",NA,"0.81",NA
+"Canada: British Columbia","Workplace","-0.05","0.07","0.53"
+"Canada: British Columbia","Transit","-0.04","0.07","0.54"
+"Canada: British Columbia","Residential","-0.16","0.17","0.33"
+"Canada: British Columbia","Retail Recreation","0.11","0.06","0.09"
+"Canada: British Columbia","Grocery Pharmacy","0.01","0.07","0.88"
+"Canada: British Columbia","Parks","-0.04","0.01","0.00"
+"Canada: British Columbia","Constant","-0.12",NA,NA
+"Canada: British Columbia","N",NA,"107.00",NA
+"Canada: British Columbia","R2",NA,"0.41",NA
+"Bulgaria","Workplace","0.14","0.10","0.17"
+"Bulgaria","Transit","0.24","0.09","0.01"
+"Bulgaria","Residential","0.46","0.22","0.03"
+"Bulgaria","Retail Recreation","-0.06","0.09","0.51"
+"Bulgaria","Grocery Pharmacy","-0.20","0.11","0.06"
+"Bulgaria","Parks","0.02","0.03","0.63"
+"Bulgaria","Constant","1.34",NA,NA
+"Bulgaria","N",NA,"107.00",NA
+"Bulgaria","R2",NA,"0.27",NA
+"Chile","Workplace","0.10","0.04","0.01"
+"Chile","Transit","0.02","0.05","0.64"
+"Chile","Residential","-0.07","0.09","0.40"
+"Chile","Retail Recreation","-0.11","0.05","0.05"
+"Chile","Grocery Pharmacy","0.00","0.03","0.91"
+"Chile","Parks","0.04","0.04","0.31"
+"Chile","Constant","0.29",NA,NA
+"Chile","N",NA,"107.00",NA
+"Chile","R2",NA,"0.56",NA
+"Croatia","Workplace","0.18","0.09","0.05"
+"Croatia","Transit","0.19","0.05","0.00"
+"Croatia","Residential","0.50","0.20","0.01"
+"Croatia","Retail Recreation","-0.06","0.03","0.04"
+"Croatia","Grocery Pharmacy","0.02","0.02","0.29"
+"Croatia","Parks","-0.05","0.02","0.01"
+"Croatia","Constant","0.90",NA,NA
+"Croatia","N",NA,"107.00",NA
+"Croatia","R2",NA,"0.69",NA
+"Czech Republic","Workplace","0.33","0.09","0.00"
+"Czech Republic","Transit","-0.32","0.09","0.00"
+"Czech Republic","Residential","0.55","0.24","0.02"
+"Czech Republic","Retail Recreation","0.36","0.06","0.00"
+"Czech Republic","Grocery Pharmacy","-0.12","0.04","0.00"
+"Czech Republic","Parks","0.05","0.02","0.02"
+"Czech Republic","Constant","-1.64",NA,NA
+"Czech Republic","N",NA,"107.00",NA
+"Czech Republic","R2",NA,"0.63",NA
+"Denmark","Workplace","-0.08","0.05","0.11"
+"Denmark","Transit","0.12","0.03","0.00"
+"Denmark","Residential","-0.35","0.20","0.08"
+"Denmark","Retail Recreation","-0.09","0.04","0.01"
+"Denmark","Grocery Pharmacy","-0.01","0.04","0.77"
+"Denmark","Parks","-0.02","0.01","0.00"
+"Denmark","Constant","1.68",NA,NA
+"Denmark","N",NA,"107.00",NA
+"Denmark","R2",NA,"0.53",NA
+"Estonia","Workplace","0.01","0.07","0.90"
+"Estonia","Transit","0.22","0.08","0.01"
+"Estonia","Residential","0.12","0.17","0.51"
+"Estonia","Retail Recreation","-0.04","0.04","0.35"
+"Estonia","Grocery Pharmacy","-0.05","0.04","0.26"
+"Estonia","Parks","-0.06","0.01","0.00"
+"Estonia","Constant","2.57",NA,NA
+"Estonia","N",NA,"107.00",NA
+"Estonia","R2",NA,"0.68",NA
+"Finland","Workplace","0.06","0.08","0.44"
+"Finland","Transit","-0.04","0.08","0.62"
+"Finland","Residential","0.15","0.27","0.57"
+"Finland","Retail Recreation","0.07","0.09","0.44"
+"Finland","Grocery Pharmacy","-0.07","0.05","0.22"
+"Finland","Parks","-0.02","0.01","0.23"
+"Finland","Constant","2.59",NA,NA
+"Finland","N",NA,"107.00",NA
+"Finland","R2",NA,"0.12",NA
+"France","Workplace","0.07","0.09","0.43"
+"France","Transit","0.11","0.10","0.24"
+"France","Residential","-0.14","0.19","0.46"
+"France","Retail Recreation","-0.01","0.09","0.91"
+"France","Grocery Pharmacy","-0.03","0.04","0.45"
+"France","Parks","-0.02","0.03","0.56"
+"France","Constant","3.11",NA,NA
+"France","N",NA,"107.00",NA
+"France","R2",NA,"0.74",NA
+"Germany","Workplace","-0.00","0.07","0.97"
+"Germany","Transit","0.17","0.06","0.00"
+"Germany","Residential","-0.30","0.19","0.11"
+"Germany","Retail Recreation","-0.06","0.04","0.17"
+"Germany","Grocery Pharmacy","-0.09","0.02","0.00"
+"Germany","Parks","-0.05","0.01","0.00"
+"Germany","Constant","1.83",NA,NA
+"Germany","N",NA,"107.00",NA
+"Germany","R2",NA,"0.72",NA
+"Greece","Workplace","0.09","0.12","0.43"
+"Greece","Transit","-0.04","0.10","0.71"
+"Greece","Residential","-0.32","0.39","0.42"
+"Greece","Retail Recreation","0.03","0.06","0.61"
+"Greece","Grocery Pharmacy","-0.07","0.04","0.12"
+"Greece","Parks","-0.06","0.02","0.00"
+"Greece","Constant","0.35",NA,NA
+"Greece","N",NA,"107.00",NA
+"Greece","R2",NA,"0.43",NA
+"Hungary","Workplace","0.17","0.14","0.21"
+"Hungary","Transit","0.28","0.09","0.00"
+"Hungary","Residential","0.61","0.34","0.07"
+"Hungary","Retail Recreation","0.03","0.06","0.67"
+"Hungary","Grocery Pharmacy","-0.03","0.04","0.49"
+"Hungary","Parks","-0.11","0.02","0.00"
+"Hungary","Constant","0.29",NA,NA
+"Hungary","N",NA,"107.00",NA
+"Hungary","R2",NA,"0.70",NA
+"India","Workplace","-0.26","0.14","0.06"
+"India","Transit","0.09","0.18","0.63"
+"India","Residential","-1.36","0.40","0.00"
+"India","Retail Recreation","-0.20","0.20","0.32"
+"India","Grocery Pharmacy","0.22","0.09","0.02"
+"India","Parks","-0.01","0.18","0.94"
+"India","Constant","-0.14",NA,NA
+"India","N",NA,"107.00",NA
+"India","R2",NA,"0.90",NA
+"Ireland","Workplace","0.05","0.06","0.39"
+"Ireland","Transit","-0.20","0.03","0.00"
+"Ireland","Residential","-0.27","0.12","0.03"
+"Ireland","Retail Recreation","0.19","0.02","0.00"
+"Ireland","Grocery Pharmacy","0.00","0.02","0.86"
+"Ireland","Parks","-0.00","0.01","0.91"
+"Ireland","Constant","1.67",NA,NA
+"Ireland","N",NA,"107.00",NA
+"Ireland","R2",NA,"0.88",NA
+"Italy","Workplace","0.30","0.13","0.03"
+"Italy","Transit","-0.40","0.07","0.00"
+"Italy","Residential","-0.29","0.31","0.36"
+"Italy","Retail Recreation","0.38","0.09","0.00"
+"Italy","Grocery Pharmacy","-0.12","0.09","0.18"
+"Italy","Parks","-0.03","0.04","0.39"
+"Italy","Constant","1.36",NA,NA
+"Italy","N",NA,"107.00",NA
+"Italy","R2",NA,"0.80",NA
+"Japan","Workplace","0.40","0.13","0.00"
+"Japan","Transit","-0.26","0.09","0.00"
+"Japan","Residential","0.54","0.32","0.09"
+"Japan","Retail Recreation","0.46","0.10","0.00"
+"Japan","Grocery Pharmacy","-0.39","0.18","0.03"
+"Japan","Parks","0.01","0.04","0.82"
+"Japan","Constant","-0.36",NA,NA
+"Japan","N",NA,"107.00",NA
+"Japan","R2",NA,"0.38",NA
+"Latvia","Workplace","0.01","0.05","0.86"
+"Latvia","Transit","-0.00","0.05","0.97"
+"Latvia","Residential","-0.07","0.16","0.64"
+"Latvia","Retail Recreation","0.02","0.04","0.61"
+"Latvia","Grocery Pharmacy","0.07","0.04","0.08"
+"Latvia","Parks","-0.03","0.01","0.01"
+"Latvia","Constant","0.70",NA,NA
+"Latvia","N",NA,"107.00",NA
+"Latvia","R2",NA,"0.42",NA
+"Lithuania","Workplace","0.06","0.04","0.09"
+"Lithuania","Transit","0.18","0.05","0.00"
+"Lithuania","Residential","0.21","0.10","0.04"
+"Lithuania","Retail Recreation","0.05","0.03","0.13"
+"Lithuania","Grocery Pharmacy","-0.10","0.02","0.00"
+"Lithuania","Parks","-0.02","0.01","0.00"
+"Lithuania","Constant","1.41",NA,NA
+"Lithuania","N",NA,"107.00",NA
+"Lithuania","R2",NA,"0.83",NA
+"Mexico","Workplace","0.07","0.11","0.52"
+"Mexico","Transit","0.13","0.27","0.62"
+"Mexico","Residential","0.30","0.23","0.18"
+"Mexico","Retail Recreation","0.53","0.18","0.00"
+"Mexico","Grocery Pharmacy","-0.05","0.11","0.68"
+"Mexico","Parks","-0.43","0.22","0.05"
+"Mexico","Constant","0.81",NA,NA
+"Mexico","N",NA,"85.00",NA
+"Mexico","R2",NA,"0.71",NA
+"Netherlands","Workplace","0.00","0.06","0.97"
+"Netherlands","Transit","0.19","0.08","0.02"
+"Netherlands","Residential","-0.16","0.25","0.52"
+"Netherlands","Retail Recreation","-0.09","0.06","0.15"
+"Netherlands","Grocery Pharmacy","0.00","0.06","0.95"
+"Netherlands","Parks","-0.02","0.01","0.06"
+"Netherlands","Constant","1.15",NA,NA
+"Netherlands","N",NA,"107.00",NA
+"Netherlands","R2",NA,"0.76",NA
+"New Zealand","Workplace","0.21","0.04","0.00"
+"New Zealand","Transit","-0.21","0.03","0.00"
+"New Zealand","Residential","-0.06","0.10","0.56"
+"New Zealand","Retail Recreation","0.15","0.03","0.00"
+"New Zealand","Grocery Pharmacy","-0.07","0.03","0.02"
+"New Zealand","Parks","0.05","0.03","0.19"
+"New Zealand","Constant","-2.05",NA,NA
+"New Zealand","N",NA,"107.00",NA
+"New Zealand","R2",NA,"0.88",NA
+"Norway","Workplace","0.05","0.05","0.33"
+"Norway","Transit","-0.00","0.05","0.94"
+"Norway","Residential","0.12","0.17","0.47"
+"Norway","Retail Recreation","0.00","0.04","0.93"
+"Norway","Grocery Pharmacy","-0.04","0.02","0.03"
+"Norway","Parks","-0.01","0.01","0.11"
+"Norway","Constant","2.35",NA,NA
+"Norway","N",NA,"104.00",NA
+"Norway","R2",NA,"0.13",NA
+"Canada: Ontario","Workplace","0.12","0.07","0.08"
+"Canada: Ontario","Transit","-0.14","0.09","0.14"
+"Canada: Ontario","Residential","-0.09","0.14","0.54"
+"Canada: Ontario","Retail Recreation","0.17","0.09","0.07"
+"Canada: Ontario","Grocery Pharmacy","-0.06","0.05","0.28"
+"Canada: Ontario","Parks","-0.02","0.01","0.02"
+"Canada: Ontario","Constant","-0.04",NA,NA
+"Canada: Ontario","N",NA,"107.00",NA
+"Canada: Ontario","R2",NA,"0.51",NA
+"Poland","Workplace","0.09","0.09","0.32"
+"Poland","Transit","0.11","0.06","0.05"
+"Poland","Residential","0.18","0.23","0.43"
+"Poland","Retail Recreation","0.03","0.04","0.53"
+"Poland","Grocery Pharmacy","-0.01","0.02","0.71"
+"Poland","Parks","-0.01","0.01","0.37"
+"Poland","Constant","-0.13",NA,NA
+"Poland","N",NA,"107.00",NA
+"Poland","R2",NA,"0.69",NA
+"Portugal","Workplace","0.05","0.10","0.62"
+"Portugal","Transit","0.11","0.07","0.14"
+"Portugal","Residential","-0.03","0.19","0.88"
+"Portugal","Retail Recreation","0.08","0.08","0.30"
+"Portugal","Grocery Pharmacy","0.00","0.04","0.98"
+"Portugal","Parks","-0.09","0.02","0.00"
+"Portugal","Constant","0.26",NA,NA
+"Portugal","N",NA,"107.00",NA
+"Portugal","R2",NA,"0.75",NA
+"US: California","Workplace","0.07","0.09","0.42"
+"US: California","Transit","-0.37","0.10","0.00"
+"US: California","Residential","-0.54","0.18","0.00"
+"US: California","Retail Recreation","0.13","0.05","0.01"
+"US: California","Grocery Pharmacy","0.18","0.03","0.00"
+"US: California","Parks","0.06","0.04","0.11"
+"US: California","Constant","-0.98",NA,NA
+"US: California","N",NA,"107.00",NA
+"US: California","R2",NA,"0.71",NA
+"US: Carolinas","Workplace","0.26","0.20","0.18"
+"US: Carolinas","Transit","0.20","0.14","0.15"
+"US: Carolinas","Residential","0.21","0.32","0.51"
+"US: Carolinas","Retail Recreation","-0.15","0.11","0.19"
+"US: Carolinas","Grocery Pharmacy","-0.08","0.09","0.35"
+"US: Carolinas","Parks","0.00","0.02","0.97"
+"US: Carolinas","Constant","0.47",NA,NA
+"US: Carolinas","N",NA,"107.00",NA
+"US: Carolinas","R2",NA,"0.59",NA
+"US: Central","Workplace","0.11","0.09","0.19"
+"US: Central","Transit","0.39","0.13","0.00"
+"US: Central","Residential","0.09","0.22","0.68"
+"US: Central","Retail Recreation","-0.19","0.07","0.01"
+"US: Central","Grocery Pharmacy","-0.08","0.06","0.17"
+"US: Central","Parks","-0.05","0.01","0.00"
+"US: Central","Constant","1.67",NA,NA
+"US: Central","N",NA,"106.00",NA
+"US: Central","R2",NA,"0.54",NA
+"US: Florida","Workplace","0.08","0.08","0.29"
+"US: Florida","Transit","0.07","0.06","0.23"
+"US: Florida","Residential","0.03","0.17","0.88"
+"US: Florida","Retail Recreation","-0.52","0.08","0.00"
+"US: Florida","Grocery Pharmacy","0.18","0.06","0.00"
+"US: Florida","Parks","0.24","0.05","0.00"
+"US: Florida","Constant","0.19",NA,NA
+"US: Florida","N",NA,"107.00",NA
+"US: Florida","R2",NA,"0.40",NA
+"US: Mid-Atlantic","Workplace","-0.04","0.15","0.80"
+"US: Mid-Atlantic","Transit","0.29","0.13","0.02"
+"US: Mid-Atlantic","Residential","-0.23","0.23","0.31"
+"US: Mid-Atlantic","Retail Recreation","-0.21","0.07","0.00"
+"US: Mid-Atlantic","Grocery Pharmacy","0.07","0.04","0.07"
+"US: Mid-Atlantic","Parks","-0.00","0.01","1.00"
+"US: Mid-Atlantic","Constant","1.92",NA,NA
+"US: Mid-Atlantic","N",NA,"101.00",NA
+"US: Mid-Atlantic","R2",NA,"0.71",NA
+"US: Midwest","Workplace","-0.22","0.18","0.21"
+"US: Midwest","Transit","0.50","0.13","0.00"
+"US: Midwest","Residential","-0.49","0.31","0.12"
+"US: Midwest","Retail Recreation","-0.24","0.08","0.00"
+"US: Midwest","Grocery Pharmacy","-0.02","0.05","0.73"
+"US: Midwest","Parks","-0.05","0.01","0.00"
+"US: Midwest","Constant","2.05",NA,NA
+"US: Midwest","N",NA,"106.00",NA
+"US: Midwest","R2",NA,"0.66",NA
+"US: New England","Workplace","0.15","0.16","0.35"
+"US: New England","Transit","-0.07","0.09","0.44"
+"US: New England","Residential","-0.08","0.27","0.77"
+"US: New England","Retail Recreation","-0.01","0.09","0.92"
+"US: New England","Grocery Pharmacy","0.01","0.07","0.92"
+"US: New England","Parks","-0.05","0.01","0.00"
+"US: New England","Constant","0.58",NA,NA
+"US: New England","N",NA,"107.00",NA
+"US: New England","R2",NA,"0.42",NA
+"US: Northwest","Workplace","0.02","0.07","0.81"
+"US: Northwest","Transit","-0.17","0.08","0.04"
+"US: Northwest","Residential","-0.12","0.14","0.39"
+"US: Northwest","Retail Recreation","0.09","0.07","0.17"
+"US: Northwest","Grocery Pharmacy","0.21","0.05","0.00"
+"US: Northwest","Parks","-0.04","0.02","0.02"
+"US: Northwest","Constant","0.92",NA,NA
+"US: Northwest","N",NA,"102.00",NA
+"US: Northwest","R2",NA,"0.33",NA
+"US: New York","Workplace","-0.01","0.09","0.92"
+"US: New York","Transit","0.02","0.08","0.84"
+"US: New York","Residential","-0.37","0.14","0.01"
+"US: New York","Retail Recreation","0.00","0.06","0.95"
+"US: New York","Grocery Pharmacy","-0.00","0.03","0.90"
+"US: New York","Parks","-0.05","0.01","0.00"
+"US: New York","Constant","0.55",NA,NA
+"US: New York","N",NA,"107.00",NA
+"US: New York","R2",NA,"0.80",NA
+"US: Southeast","Workplace","-0.01","0.06","0.87"
+"US: Southeast","Transit","0.29","0.07","0.00"
+"US: Southeast","Residential","-0.08","0.13","0.53"
+"US: Southeast","Retail Recreation","-0.18","0.06","0.00"
+"US: Southeast","Grocery Pharmacy","-0.04","0.05","0.40"
+"US: Southeast","Parks","0.01","0.01","0.53"
+"US: Southeast","Constant","1.18",NA,NA
+"US: Southeast","N",NA,"107.00",NA
+"US: Southeast","R2",NA,"0.60",NA
+"US: Southwest","Workplace","0.00","0.13","1.00"
+"US: Southwest","Transit","-0.23","0.12","0.06"
+"US: Southwest","Residential","-0.47","0.25","0.06"
+"US: Southwest","Retail Recreation","-0.18","0.09","0.05"
+"US: Southwest","Grocery Pharmacy","0.20","0.05","0.00"
+"US: Southwest","Parks","0.20","0.04","0.00"
+"US: Southwest","Constant","-1.86",NA,NA
+"US: Southwest","N",NA,"107.00",NA
+"US: Southwest","R2",NA,"0.38",NA
+"US: Tennessee","Workplace","0.03","0.19","0.87"
+"US: Tennessee","Transit","0.42","0.18","0.02"
+"US: Tennessee","Residential","-0.20","0.32","0.53"
+"US: Tennessee","Retail Recreation","-0.25","0.09","0.01"
+"US: Tennessee","Grocery Pharmacy","0.00","0.06","0.98"
+"US: Tennessee","Parks","-0.03","0.02","0.07"
+"US: Tennessee","Constant","0.69",NA,NA
+"US: Tennessee","N",NA,"107.00",NA
+"US: Tennessee","R2",NA,"0.60",NA
+"US: Texas","Workplace","-0.14","0.05","0.00"
+"US: Texas","Transit","0.39","0.06","0.00"
+"US: Texas","Residential","-0.13","0.12","0.25"
+"US: Texas","Retail Recreation","-0.16","0.05","0.00"
+"US: Texas","Grocery Pharmacy","-0.01","0.03","0.83"
+"US: Texas","Parks","-0.07","0.02","0.00"
+"US: Texas","Constant","0.23",NA,NA
+"US: Texas","N",NA,"107.00",NA
+"US: Texas","R2",NA,"0.64",NA
+"Romania","Workplace","0.08","0.07","0.23"
+"Romania","Transit","0.11","0.14","0.43"
+"Romania","Residential","0.09","0.19","0.63"
+"Romania","Retail Recreation","-0.01","0.11","0.91"
+"Romania","Grocery Pharmacy","-0.01","0.06","0.81"
+"Romania","Parks","0.03","0.02","0.16"
+"Romania","Constant","-0.54",NA,NA
+"Romania","N",NA,"107.00",NA
+"Romania","R2",NA,"0.66",NA
+"Russia","Workplace","-0.04","0.05","0.42"
+"Russia","Transit","0.09","0.10","0.38"
+"Russia","Residential","-0.10","0.12","0.39"
+"Russia","Retail Recreation","0.13","0.09","0.16"
+"Russia","Grocery Pharmacy","-0.13","0.07","0.04"
+"Russia","Parks","-0.09","0.03","0.00"
+"Russia","Constant","0.82",NA,NA
+"Russia","N",NA,"107.00",NA
+"Russia","R2",NA,"0.72",NA
+"Slovakia","Workplace","-0.06","0.08","0.49"
+"Slovakia","Transit","0.16","0.09","0.07"
+"Slovakia","Residential","0.06","0.18","0.72"
+"Slovakia","Retail Recreation","0.09","0.07","0.15"
+"Slovakia","Grocery Pharmacy","-0.04","0.01","0.01"
+"Slovakia","Parks","-0.07","0.01","0.00"
+"Slovakia","Constant","0.00",NA,NA
+"Slovakia","N",NA,"107.00",NA
+"Slovakia","R2",NA,"0.70",NA
+"Slovenia","Workplace","0.06","0.13","0.63"
+"Slovenia","Transit","0.33","0.06","0.00"
+"Slovenia","Residential","0.68","0.26","0.01"
+"Slovenia","Retail Recreation","0.14","0.05","0.01"
+"Slovenia","Grocery Pharmacy","-0.09","0.04","0.03"
+"Slovenia","Parks","-0.15","0.02","0.00"
+"Slovenia","Constant","-0.63",NA,NA
+"Slovenia","N",NA,"107.00",NA
+"Slovenia","R2",NA,"0.61",NA
+"Spain","Workplace","0.31","0.13","0.02"
+"Spain","Transit","-0.18","0.10","0.07"
+"Spain","Residential","-0.08","0.25","0.75"
+"Spain","Retail Recreation","0.13","0.07","0.07"
+"Spain","Grocery Pharmacy","-0.04","0.06","0.51"
+"Spain","Parks","-0.04","0.03","0.22"
+"Spain","Constant","1.88",NA,NA
+"Spain","N",NA,"107.00",NA
+"Spain","R2",NA,"0.82",NA
+"Sweden","Workplace","-0.06","0.09","0.50"
+"Sweden","Transit","0.20","0.06","0.00"
+"Sweden","Residential","-0.19","0.42","0.65"
+"Sweden","Retail Recreation","-0.25","0.08","0.00"
+"Sweden","Grocery Pharmacy","0.07","0.07","0.34"
+"Sweden","Parks","-0.02","0.01","0.01"
+"Sweden","Constant","3.53",NA,NA
+"Sweden","N",NA,"107.00",NA
+"Sweden","R2",NA,"0.33",NA
+"Ukraine","Workplace","-0.05","0.08","0.57"
+"Ukraine","Transit","0.00","0.09","0.98"
+"Ukraine","Residential","-0.41","0.19","0.03"
+"Ukraine","Retail Recreation","0.11","0.07","0.12"
+"Ukraine","Grocery Pharmacy","-0.22","0.08","0.01"
+"Ukraine","Parks","0.05","0.04","0.18"
+"Ukraine","Constant","1.36",NA,NA
+"Ukraine","N",NA,"107.00",NA
+"Ukraine","R2",NA,"0.33",NA
+"United Kingdom","Workplace","0.01","0.14","0.92"
+"United Kingdom","Transit","-0.13","0.18","0.44"
+"United Kingdom","Residential","-0.23","0.25","0.37"
+"United Kingdom","Retail Recreation","0.21","0.14","0.14"
+"United Kingdom","Grocery Pharmacy","0.02","0.10","0.87"
+"United Kingdom","Parks","-0.01","0.02","0.63"
+"United Kingdom","Constant","1.05",NA,NA
+"United Kingdom","N",NA,"107.00",NA
+"United Kingdom","R2",NA,"0.66",NA
